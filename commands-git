@@ -1,4 +1,5 @@
 git clone https://github.com/jean-louis-gomis/git-begins.git
-get add 
-get commit
-get push
+git add 
+git commit
+git push
+git pull
