@@ -3,3 +3,6 @@ git add
 git commit
 git push
 git pull
+git branch add-create-branch-command
+git checkout add-create-branch-command
+git switch master ou git checkout master
