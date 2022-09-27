@@ -1,7 +1,0 @@
-git clone https://github.com/jean-louis-gomis/git-begins.git
-git add 
-git commit
-git push
-git pull
-git branch add-create-branch-command
-git checkout add-create-branch-command
